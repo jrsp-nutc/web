@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 
 /******************************
@@ -225,7 +225,7 @@
 	p{font-size:13px;}
 	.header
 	{
-		height: 74px;
+		height: 105px;
 	}
 	.logo_container
 	{
@@ -332,7 +332,7 @@
 {
 	.header
 	{
-		height: 60px;
+		height: 105px;
 		top: 15px;
 	}
 }
